@@ -1,13 +1,13 @@
 ---
 name: commercial-web-fiction-writing
 description: Plan and revise Chinese commercial web fiction.
-version: 0.1.0
+version: 0.2.0
 author: Bruce Lau (brucelau1987cn), Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
-    tags: [web-fiction, chinese-novel, hooks, openings, revision, qimao]
+    tags: [web-fiction, chinese-novel, hooks, openings, revision, qimao, engines]
     category: creative
     related_skills: []
 ---
@@ -25,14 +25,14 @@ Produce Chinese web fiction that makes a clear reader promise, creates sustained
 3. Classify the project as traditional, hot, distinctive, or sensitive/high-risk. For inexperienced authors, favor a familiar mainstream category with micro-innovation or a supported platform contest.
 4. Study the target platform's hot list, new-book list, and category list. Read representative works beyond the opening and extract the full framework, recurring conventions, pacing, and reader contract. When studying the first 15–20 chapters, load `references/early-serial-arc-research.md`; verify the true readable boundary per work, then analyze chapters 1–3, 4–10, and 11–20 as engine-relay windows rather than retelling every chapter.
 5. Define the long-term hook, current-stage task, opposition, and planned payoff nodes before drafting. For goal-driven work, split the long-term goal into necessary short-term tasks and specify full rewards, deadlines, obstacles, reversals, and transitions.
-6. Identify the primary story engine: emotional/relationship flow or external plot/task flow. They may reinforce each other, but one should organize the narrative unless the author can sustain a deliberate balance.
+6. Identify the primary story engine: emotional/relationship flow or external plot/task flow. They may reinforce each other, but one should organize the narrative unless the author can sustain a deliberate balance. For the first six chapters, also pick **one** opening engine from `references/opening-engine-catalog-first-six.md` (female/ancient tracks) or `references/male-opening-engines.md` (male tracks). Do not run three opening engines at full load.
 7. Align title, blurb, tags, opening, main plot, and chapter hooks around the same promise.
-8. Draft the opening through conflict, crisis, choice, or relationship change. Reveal setting through action rather than static explanation.
-9. Review every scene and paragraph for necessity, focus, emotional concentration, character consistency, and continuity of expectation.
+8. Draft the opening through conflict, crisis, choice, or relationship change. Reveal setting through action rather than static explanation. Inside chapter 1, make the old state fail and force a new choice.
+9. Review every scene and paragraph for necessity, focus, emotional concentration, character consistency, and continuity of expectation. When a conflict recurs, change information, relationship, resource, map, or cost.
 10. Translate vague editorial feedback into observable defects and concrete revision operations.
-11. For long-form work, maintain a story bible, character/voice cards, timeline, hook/foreshadowing ledger, and information-gap ledger. Use a three-chapter review loop and broader ten-chapter/volume reviews.
+11. For long-form work, maintain a story bible, character/voice cards, timeline, hook/foreshadowing ledger, and information-gap ledger. Use a three-chapter review loop and broader ten-chapter/volume reviews. Treat 1–3 / 4–10 / 11–20 as elastic engine-relay windows.
 12. Before delivery, reread the actual prose for continuity and story completeness, then perform a separate de-AI language pass. A keyword scan alone is not sufficient.
-13. Verify that hooks are tracked and eventually paid off, while new expectations begin before old ones fully close.
+13. Verify that hooks are tracked and eventually paid off, while new expectations begin before old ones fully close. Pleasure units should restore decision rights, not only deliver face-slapping.
 
 ## Default Prose and Delivery Gate
 
@@ -107,3 +107,5 @@ When the user asks for "read what's readable on a chart and turn it into techniq
 - See `references/prose-voice-and-final-quality-gate.md` for the mandatory de-AI prose contract, subjective viewpoint, continuity checks, and final delivery gate.
 - See `references/iaa-wireless-chapter-design.md` for the 2,000-2,500 chapter range, internal pacing map, and honest chapter-end retention hooks.
 - See `references/long-form-project-control.md` for story-bible files, ledgers, three-chapter loops, volume reviews, and evidence discipline around platform claims.
+- See `references/opening-engine-catalog-first-six.md` for the first-six-chapter opening-engine catalog (seven tracks), selection tree, skeletons, and acceptance checks.
+- See `references/male-opening-engines.md` for male-channel openings: money-first historical, prison-return, and vessel-cast upgrade patterns.

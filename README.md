@@ -16,8 +16,8 @@ Treats market fit, platform fit, story architecture, emotional value, and prose 
 |---|---|
 | Topic selection | Platform taste, hot/cold tracks, newcomer-safe picks, micro-innovation |
 | Packaging | Title, blurb, tags, promise alignment |
-| Opening / first 3 chapters | Sell-point, conflict, emotion, logic, signing-oriented openings |
-| Structure | Long hooks / short hooks, nested goals, escalation |
+| Opening / first 6 chapters | Seven opening engines + male three-entry patterns; chapter-1 fail+choose |
+| Structure | Long hooks / short hooks, nested goals, escalation, engine relay windows |
 | Character & romance | Stable characterization, pursuit-and-regret arcs, redemption boundaries |
 | Chapter production | IAA / free-ad chapter range (≈2000–2500 chars), honest chapter-end hooks |
 | Diagnosis | Rejection feedback → `删/缩/移/强化/重建` revision ops |
@@ -48,10 +48,30 @@ novel-skill/
         ├── chart-research-technique-extraction.md
         ├── early-serial-arc-research.md
         ├── mechanism-based-close-reading.md
-        └── evidence-calibrated-opening-patterns.md
+        ├── evidence-calibrated-opening-patterns.md
+        ├── opening-engine-catalog-first-six.md
+        └── male-opening-engines.md
 ```
 
 This mirrors Hermes Agent's `optional-skills/<category>/<name>/` convention so the package can later be proposed upstream under `optional-skills/creative/`.
+
+## Opening engines (v0.2)
+
+Before drafting chapters 1–6, pick **one** primary engine:
+
+**Female / ancient tracks** (`opening-engine-catalog-first-six.md`):
+
+1. Contract death — ledger → exit checklist → signature  
+2. Marvel delay — public skill proof → stab again after rescue  
+3. Reunion loss-of-control — ritual co-frame → hate-kiss → failed hide  
+4. Cold exit / keep-child — on-duty collision → blessing cut  
+5. Higher-seat offset — climb higher power → cut old match  
+6. Survival purge — one enemy per chapter → force principals  
+7. Multi-heir bargaining — face-recognize → money/verify first  
+
+**Male tracks** (`male-opening-engines.md`): money-first historical · prison-return · vessel-cast upgrade.
+
+Shared rules: title states end-state; chapter 1 fails the old state; recurring conflict changes information/relationship/resource/map/cost; pleasure restores decision rights; IAA chapters ≈2000–2500 characters.
 
 ## Install into Hermes Agent
 
@@ -121,7 +141,8 @@ and follow the repo hardline authoring standards (description ≤ 60 chars, huma
 
 ## Version
 
-- `0.1.0` — initial public release of the working Hermes user-local skill, sanitized for open distribution.
+- `0.2.0` — opening-engine catalog (7 female/ancient tracks + 3 male entries) from live chart research
+- `0.1.0` — initial public release of the working Hermes user-local skill, sanitized for open distribution
 
 ## License
 
