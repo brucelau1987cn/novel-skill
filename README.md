@@ -1,5 +1,7 @@
 # novel-skill
 
+**English** | [中文](./README.zh-CN.md)
+
 Hermes-compatible **optional skill** for planning, drafting, diagnosing, and revising **Chinese commercial web fiction** (网文).
 
 Skill name: `commercial-web-fiction-writing`  
@@ -28,6 +30,7 @@ Treats market fit, platform fit, story architecture, emotional value, and prose 
 ```text
 novel-skill/
 ├── README.md
+├── README.zh-CN.md
 ├── LICENSE
 └── commercial-web-fiction-writing/
     ├── SKILL.md
